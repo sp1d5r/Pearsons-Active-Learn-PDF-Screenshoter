@@ -1,5 +1,7 @@
 # Pearsons-Active-Learn-PDF-Screenshoter
 
+(This piece of software no longer works for the Pearsons Active Learn PDF website, instead you can reformat the code to work on newer versions of the software)
+
 ## Contents:
 - [Setup](#setup)
 - [Locating the IFrame src](#here-comes-the-hard-part-not-really)
@@ -75,6 +77,8 @@ No worries (if you're on mac) just open automator (a pre installed app) and open
 
 ## Help?
 If you get stuck or need help message me on my social media's to ensure a reply
-- [@Sp1d5r on Instagram](www.instagram.com/sp1d5r)
-- [@sp1d5r on snapchat](www.snapchat.com/add/sp1d5r)
-- [@sp1d5r_ on twitter](https://twitter.com/sp1d5r_)
+- [Linkden - Elijah Ahmad](https://www.linkedin.com/in/elijah-ahmad-658a2b199/)
+- [FaceBook - Elijah Ahmad](https://www.facebook.com/elijah.ahmad.71)
+- [Instagram - @ElijahAhmad__](https://www.instagram.com/ElijahAhmad__)
+- [Snapchat - @Elijah.Ahmad](https://www.snapchat.com/add/elijah.ahmad)
+
